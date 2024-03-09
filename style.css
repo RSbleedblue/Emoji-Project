@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: url("assets/codioful-formerly-gradienta-LeG68PrXA6Y-unsplash.jpg");
+    background-size: cover;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 4px; 
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #88888860; 
+  }
+  
+  
