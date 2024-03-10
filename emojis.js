@@ -22745,4 +22745,3 @@ const emojiList = [
     , "ios_version": "12.1"
     }
   ];
-  export default emojiList;
